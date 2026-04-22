@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScanForge</string>
+    <string name="scan_mode_photo">Photogrammetry</string>
+    <string name="scan_mode_ai">AI Depth</string>
+    <string name="btn_capture">Snimi</string>
+    <string name="btn_process">Procesiraj model</string>
+    <string name="btn_export">Export</string>
+    <string name="btn_view_ar">Prikaži u AR</string>
+    <string name="permission_camera_needed">Dozvola za kameru je potrebna</string>
+</resources>

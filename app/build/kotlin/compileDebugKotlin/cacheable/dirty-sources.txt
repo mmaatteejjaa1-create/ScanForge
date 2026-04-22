@@ -1,0 +1,13 @@
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/MainActivity.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/screens/ProcessingScreen.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/components/Components.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/theme/Theme.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ScanForgeApp.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/data/model/Models.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/viewmodel/ViewModels.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/screens/PhotogrammetryScreen.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/screens/ExportScreen.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/processing/Processors.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/screens/ArViewerScreen.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/screens/HomeScreen.kt
+/home/mateja/Downloads/ScanForge/app/src/main/java/com/scanforge/ui/screens/AiDepthScreen.kt
